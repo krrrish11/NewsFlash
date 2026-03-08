@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsFlash</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="loading">Loading news...</string>
+    <string name="no_internet">No internet connection. Please check your network.</string>
+    <string name="error_api_key">Invalid API Key. Please update your API key in Constants.java</string>
+    <string name="no_articles">No articles found.</string>
+    <string name="read_full_article">Read Full Article</string>
+    <string name="share">Share</string>
+    <string name="swipe_to_refresh">Swipe down to refresh</string>
+    <string name="search_hint">Search for news...</string>
+    <string name="source_unknown">Unknown Source</string>
+</resources>

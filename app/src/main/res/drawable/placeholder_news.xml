@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M0,0 L200,0 L200,200 L0,200 Z" />
+
+    <!-- Newspaper icon -->
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M50,60 L150,60 L150,140 L50,140 Z
+                         M60,70 L140,70 L140,90 L60,90 Z
+                         M60,100 L120,100 L120,108 L60,108 Z
+                         M60,115 L130,115 L130,123 L60,123 Z" />
+
+    <!-- Image placeholder icon -->
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M130,65 L145,65 L145,85 L130,85 Z
+                          M135,70 L140,75 L135,80 Z" />
+
+</vector>

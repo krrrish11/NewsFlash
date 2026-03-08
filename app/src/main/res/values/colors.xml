@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorPrimaryLight">#1E88E5</color>
+    <color name="colorAccent">#FF6F00</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorText">#212121</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- UI Colors -->
+    <color name="divider_color">#E0E0E0</color>
+    <color name="error_red">#D32F2F</color>
+    <color name="success_green">#388E3C</color>
+
+    <!-- Chip Colors -->
+    <color name="chip_selected_bg">#FFFFFF</color>
+    <color name="chip_unselected_bg">#33FFFFFF</color>
+    <color name="chip_selected_text">#1565C0</color>
+    <color name="chip_unselected_text">#FFFFFF</color>
+
+    <!-- Status Bar -->
+    <color name="statusBarColor">#0D47A1</color>
+
+
+    <!--  Backgrounds  -->
+
+    <color name="cardBackground">#FFFFFF</color>
+
+    <color name="colorTextSecondary">#757575</color>
+    <!--  UI chrome  -->
+    <color name="divider">#E0E0E0</color>
+</resources>
